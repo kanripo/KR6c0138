@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:06.073365
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:04
 #+TITLE: 般若波羅蜜多心經贊
 #+PROPERTY: CBETA_ID T33n1711
 #+PROPERTY: ID KR6c0138
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1711
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0138_T_000-0542c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0138_T_001-0542c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1711[cf.No.251]¶
-
- 佛說般若波羅蜜多心經贊¶
+No. 1711 [cf. No. 251]¶
+佛說般若波羅蜜多心經贊¶
 ¶
 沙門　測撰¶
 
@@ -497,8 +496,7 @@ No.1711[cf.No.251]¶
 故總立二支以顯三苦。具說如彼。發潤別者¶
 如彼論說。何緣發業總立無明潤業位中別¶
 立愛取。雖諸煩惱皆能發潤。無明力勝具足¶
-如彼而發業位無明力增以具十一殊勝事¶
-故謂所緣等廣如經。於潤業位愛力偏增。說¶
+如彼而發業位無明力增以具十一殊勝事故謂所緣等廣如經。於潤業位愛力偏增。說¶
 愛如水能沃潤故要數溉灌方生有芽。且依¶
 初後分愛取二無重發義。立一無明三約世¶
 地辨其同異有其二義。一約地辨同異二約¶
